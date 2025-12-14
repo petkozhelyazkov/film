@@ -2,23 +2,6 @@
 
 A full-stack application for browsing movies and TV shows with user authentication, favorites, and watch later lists.
 
-## Project Structure
-
-```
-proekt/
-├── frontend/          # Vue.js frontend application
-│   ├── src/          # Source files
-│   ├── package.json  # Frontend dependencies
-│   └── vite.config.js
-├── backend/          # Express.js backend API
-│   ├── routes/       # API routes
-│   ├── models/       # Data models
-│   ├── middleware/   # Auth middleware
-│   ├── package.json  # Backend dependencies
-│   └── server.js     # Server entry point
-└── README.md         # This file
-```
-
 ## Frontend Setup
 
 ```bash
