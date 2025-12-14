@@ -18,8 +18,6 @@ npm install
 ```
 
 2. Create a `.env` file in the `backend` directory:
-```bash
-```
 
 3. **IMPORTANT**: Add the following to your `.env` file (JWT_SECRET is REQUIRED):
 ```
@@ -42,5 +40,5 @@ npm run dev
 
 ## Data Storage
 
-The backend uses JSON file-based storage in the `data/` directory
+The backend uses JSON file-based storage in the `data/` directory.
 
