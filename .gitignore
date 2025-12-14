@@ -2,6 +2,7 @@ node_modules/
 dist/
 .DS_Store
 *.log
+
 .env
 .env.local
 .env.*.local
@@ -9,7 +10,9 @@ dist/
 frontend/node_modules/
 frontend/dist/
 frontend/.vite/
-frontend/.vite/
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
 
 backend/node_modules/
 backend/data/
